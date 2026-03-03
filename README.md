@@ -5,7 +5,7 @@
 *Flutter Developer · BS Software Engineering (5th Semester)*
 
 [![Gmail](https://img.shields.io/badge/Gmail-syedubaid456%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedubaid456@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40syedubaid-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/syedubaid)
+[![Twitter](https://img.shields.io/badge/Twitter-%40syedubaid-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_syedubaid)
 [![GitHub](https://img.shields.io/badge/GitHub-syedubaid45-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syedubaid45)
 
 </div>
