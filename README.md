@@ -1,73 +1,98 @@
-<h1 align="center">Hi 👋, I'm Ubaid Ur Rehman Shah</h1>
-<h3 align="center">🎓 BS Software Engineering student (4th semester) with a strong interest in building mobile and web applications using modern technologies.</h3>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer gif"/>
-</div>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=syedubaid45&label=Profile%20views&color=0e75b6&style=flat" alt="syedubaid45" /> 
-</p>
+# Ubaid Ur Rehman Shah
 
----
+*Flutter Developer · BS Software Engineering (5th Semester)*
 
+[![Gmail](https://img.shields.io/badge/Gmail-syedubaid456%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syedubaid456@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40syedubaid-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/syedubaid)
+[![GitHub](https://img.shields.io/badge/GitHub-syedubaid45-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/syedubaid45)
 
-### 👨‍💻 About Me
-
-👋 Hi, I'm **Ubaid Ur Rehman Shah**, a 4th semester **BS Software Engineering** student with a growing passion for **mobile and web development**.  
-📱 Currently learning **Dart and Flutter** through **Jawan Pakistan**, focusing on building scalable and visually engaging mobile apps.  
-💻 Skilled in the fundamentals of **Python**, **Java**, **HTML**, and **CSS**, with a strong foundation in programming concepts.  
-🚀 Eager to collaborate with other developers and improve through hands-on learning and open-source development.
-
----
-
-### 🌱 I’m currently learning:
-- Dart & Flutter (via Jawan Pakistan)
-- Firebase
-- UI/UX Principles for Mobile Apps
-
----
-
-### 💬 Ask me about:
-- Flutter, Dart
-- Python, Java, HTML/CSS basics
-
----
-
-### 📫 How to reach me:
-- Email: **syedubaid456@gmail.com**
-- Twitter: [@syedubaid](https://twitter.com/syedubaid)
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left"> 
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedubaid45&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedubaid45&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedubaid45" alt="GitHub Streak" />
 </div>
 
 ---
 
-### ⚡ Fun Fact  
-I break code just to fix it again — and somehow, I enjoy it 😄
+## 👨‍💻 About Me
+
+I'm a Flutter Developer currently interning at **DevEnhanced**, building an enterprise-level ERP system. I'm a 5th semester Software Engineering student, a **Jawan Pakistan Flutter graduate**, and a hackathon participant with 6 completed projects under my belt.
+
+I focus on clean architecture, real-world Firebase integration, and building polished mobile experiences.
+
+---
+
+## 💼 Experience
+
+**Flutter Developer Intern — DevEnhanced** *(Current)*
+- Building a full-scale **ERP-based web & mobile application** for enterprise use
+- Working within a professional development team
+- Applying GetX state management and REST API integration
+
+---
+
+## 🚀 Projects
+
+| # | Project | Description | Stack | Repo |
+|---|---|---|---|---|
+| 01 | **Real-Time Chat App** | Personal learning project — live messaging chat app with real-time Firestore sync | Flutter · Dart · Firebase · Firestore | [GitHub](https://github.com/Syedubaid45/flutter_real_time_chat) |
+| 02 | **Personal Portfolio** | Personal project — fully responsive Flutter Web App using Stacked MVVM, showcases projects, skills & experience | Flutter · Dart · Stacked (MVVM) · Responsive Design | [GitHub](https://github.com/Syedubaid45/portfolio) |
+| 03 | **Reflip Store** | Personal learning project — UI-focused e-commerce app with product browsing & cart management screens | Flutter · Dart · Stacked (MVVM) · UI/UX | [GitHub](https://github.com/Syedubaid45/ReFlipStore) |
+| 04 | **Reel App** | Personal learning project — Instagram Reels-inspired demo with vertical scroll, auto-play video & Firebase Auth | Flutter · Dart · Firebase | [GitHub](https://github.com/Syedubaid45/reels_app_demo) |
+| 05 | **Broccele Shoes Store** | Personal learning project — UI-focused shoe store design covering layout, typography & modern UI/UX concepts | Flutter · Dart · UI/UX | [GitHub](https://github.com/Syedubaid45/Ecom_figma_ui) |
+| 06 | **PayNow** | Hackathon project — 7-8 screen payment e-wallet UI built during **Jawan Pakistan Hackathon 2024** with Firebase Auth & Material 3 | Flutter · Dart · Firebase Auth | [GitHub](https://github.com/Syedubaid45/Pay-Now) |
+| 🔧 | **ERP System** *(In Progress)* | Enterprise resource planning system (web & mobile) — built at DevEnhanced | Flutter · Dart · GetX · REST APIs | — |
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend & APIs
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Architecture & State Management
+![Stacked](https://img.shields.io/badge/Stacked_MVVM-1a1a2e?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ✅ **Flutter App Development** — Jawan Pakistan
+- 🏅 **Hackathon Participant** — Jawan Pakistan Hackathon 2024 · Built PayNow 7-8 Screen E-Wallet UI
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" alt="fun gif"/>
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=syedubaid45&show_icons=true&theme=default&hide_border=false&border_color=e1e4e8&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff&count_private=true" alt="GitHub Stats"/>
+
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=syedubaid45&layout=compact&theme=default&hide_border=false&border_color=e1e4e8&title_color=0366d6&text_color=24292e&bg_color=ffffff&langs_count=6" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=syedubaid45&theme=default&hide_border=false&border=e1e4e8&ring=0366d6&fire=0366d6&currStreakLabel=0366d6&sideLabels=24292e&dates=6a737d&stroke=e1e4e8" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedubaid45&color=0366d6&style=flat-square&label=Profile+Views)
+
 </div>
